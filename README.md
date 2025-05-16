@@ -5,10 +5,7 @@ This is a Node.js application that connects to a MySQL database. It uses Docker 
 ## Deployment
 
 1. Clone the repository:
-
-git clone https://github.com/Akashthefirst/2201AI02_CS260.git
-cd 2201AI02_CS260/proj1
-
+https://github.com/RudhaTR/Faculty-Recruitment-Portal.git
 
 2. Build and start the containers: docker-compose up -d
 
